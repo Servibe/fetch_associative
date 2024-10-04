@@ -1,0 +1,12 @@
+1. Ejecutar Vite "pnpm create vite@latest" y elegir Vanilla y JS.
+2. Acceder al proyecto e instalar el plugin de React "pnpm install @vitejs/plugin-react -E" 
+(La -E es para indicar que sea la version exacta).
+3. Instalar React y el React DOM "pnpm install react react-dom -E".
+4. Configurar Vite con vite.config.js.
+5. Ajustar el main.js a tsx.
+6. Una vez se muestre el Hello World. Instalar un ESLinter.
+7. Creamos el folder src y ahi nuestro App.jsx, y lo importamos en el main.jsx.
+8. Identificamos los endpoint de la API.
+9. Hacemos un fetch basico mediante useEffect y lo almacenamos en useState.
+10. Hacemos el segundo fetch para obtener la foto de la primera palabra del string.
+11. Una vez terminado todo lo que se pide. Manejo de errores.
